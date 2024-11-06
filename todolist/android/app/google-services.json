@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "583816042773",
+    "project_id": "gkflutter-51641",
+    "storage_bucket": "gkflutter-51641.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583816042773:android:f127356d46e3eb3dc9f11c",
+        "android_client_info": {
+          "package_name": "com.example.todolist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEaqjCqP9GBkKNaygmdSPVpfNyCMmcJ30"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

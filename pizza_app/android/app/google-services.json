@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "179843173574",
+    "project_id": "pizza-45dbb",
+    "storage_bucket": "pizza-45dbb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179843173574:android:063755a3398693a450dbc7",
+        "android_client_info": {
+          "package_name": "com.example.pizza_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgrW6zpJwXfAwUTrAq7hT0KRxcKlFS944"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
